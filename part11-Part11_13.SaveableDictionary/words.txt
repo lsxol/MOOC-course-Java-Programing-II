@@ -1,0 +1,4 @@
+ogien:woda
+trans4:trans3
+reka:noga
+trans3:trans4
